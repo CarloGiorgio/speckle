@@ -1,3 +1,3 @@
 # Speckles
 This repository contains code for the generation of speckles.
-![](speckle/speckle.mp4)
+![](https://github.com/CarloGiorgio/speckle/blob/master/speckle.mp4)
